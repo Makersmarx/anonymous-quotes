@@ -1,0 +1,70 @@
+body {
+width: 100vw;
+height: 100vh;
+background-color:#004B8C ;
+color: white;
+
+}
+
+.title {
+  text-align: center;
+  font-size: 32px;
+}
+
+.add {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  
+}
+
+button {
+  margin: 20px;
+  border-radius: 35px;
+  background-color:#5e8100;
+  border: 2px solid #D9D9D9;
+  color: white;
+  
+}
+
+.quotes {
+  margin: 55px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  background-color:#EFBD08;
+
+}
+
+.lilbuttons {
+  padding: 25px;
+  margin: 10px;
+  text-align: center;
+  
+}
+
+.bodyquoteone {
+  padding: 25px;
+  font-size: 35px;
+  text-align: center;
+  color: #222120;
+  overflow: hidden;
+}
+
+.leftbutton {
+  margin-right: 10px;
+  background-color: #004B8C;
+  border: 2px solid #D9D9D9;
+  color: white;
+}
+
+.rightbutton {
+  margin-left: 10px;
+  background-color: #cc3400;
+  border: 2px solid #D9D9D9;
+  color: white;
+}
